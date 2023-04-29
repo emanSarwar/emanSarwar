@@ -1,8 +1,7 @@
+![Frontend Developer]( https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
+
 ### Hi there 👋, I am Eman
 #### Frontend Developer
-![Frontend Developer](https://drive.google.com/drive/folders/1leb3qvaflQeJaFPdMHKT8iGnhyJkAl-Y)
-
-This is Eman,
 A passionate MERN stack developer. Living life with a lot of bugs and errors and I can handle these in efficient way. Love to learn and try to keep myself updated with new tech stuff. 
 
 I Have an expertise in frontend development, basically React. Comfortable in backend with Node. I'm on a mission to build a strong basement on fullstack development.
@@ -24,8 +23,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ Git & Github/ NodeJs/ ExpressJs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emansarwar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emansarwar&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/emansarwar)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emansarwar)  
 
